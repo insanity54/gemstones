@@ -68,6 +68,7 @@ It shall work with MT 5.0.0 and above.
 
 Credits to (in no particular order):
 
+- [Gemstones by Koda_](https://github.com/KodaTheGuy/Gemstones)
 - Various Minetest developers/contributors
 - [David Leal](https://github.com/Panquesito7)
   - For teaching me how to make pancakes.
